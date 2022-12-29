@@ -1,0 +1,67 @@
+body {
+    font-family: 'Pangolin', cursive;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+
+.frontend_1 {
+    text-shadow:
+    1px 1px 1px silver,
+    -1px 1px 1px silver;
+    color: white;
+}
+
+.frontend_2 {
+    text-shadow:
+    1px 1px 0 orange,
+    1px -1px 0 orange,
+    -1px 1px 0 orange,
+    -1px -1px 0 orange;
+    color: white;
+}
+
+.frontend_3 {
+    background: linear-gradient(30deg, #9ED8DB 40%, #007B82 70%);
+    background-clip: text;
+	-webkit-background-clip: text;
+    color: transparent;
+}
+
+.frontend_4 {
+    text-shadow: 0 0 15px #999;
+    color: transparent;  
+}
+
+.frontend_5 {
+    text-shadow:
+    1px 1px 0 hsl(20,100%,50%),
+    2px 2px 0 hsl(20,100%,50%),
+    3px 3px 0 hsl(35,100%,50%),
+    4px 4px 0 hsl(35,100%,50%),
+    5px 5px 0 hsl(45,100%,50%),
+    6px 6px 0 hsl(45,100%,55%),
+    7px 7px 0 hsl(55,100%,60%),
+    8px 8px 0 hsl(55,100%,65%);
+    color: hsl(0,100%,40%);
+
+}
+
+.frontend_6 {
+    text-shadow:
+    -1px -1px #FFF,
+    -2px -2px #FFF,
+    -1px 1px #FFF,
+    -2px 2px #FFF,
+    1px 1px #FFF,
+    2px 2px #FFF,
+    1px -1px #FFF,
+    2px -2px #FFF,
+    -3px -3px 2px #BBB,
+    -3px 3px 2px #BBB,
+    3px 3px 2px #BBB,
+    3px -3px 2px #BBB;
+    color: steelblue;
+
+}
+
+
